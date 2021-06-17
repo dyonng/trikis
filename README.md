@@ -4,7 +4,7 @@
 
 This is using Unity **2020.3.11f1**
 
-Create a **Private** fork of this repository before cloning. Once you are done with this project, create a pull request back to this repository. This will tell us that you are complete.
+Clone this repo and create a branch off of `main` before starting.; All your changes should be on that branch. Once you are done, create a Pull Request (PR). This will signify to us that you are complete.
 
 ## Game Idea
 
@@ -44,7 +44,7 @@ Your objective is to get all the blocks to fill all the empty space in a line at
 * Line matching effects
 * A pause menu
 
-### Recommended Button Scheme (Let us know if change this)
+### Recommended Button Scheme (Let us know if you change this)
 
 * Arrow Keys for movement
 * Spacebar for hard-drop
