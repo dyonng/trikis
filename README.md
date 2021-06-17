@@ -44,7 +44,7 @@ Your objective is to get all the blocks to fill all the empty space in a line at
 * Line matching effects
 * A pause menu
 
-### Recommended Button Scheme
+### Recommended Button Scheme (Let us know if change this)
 
 * Arrow Keys for movement
 * Spacebar for hard-drop
