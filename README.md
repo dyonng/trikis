@@ -70,3 +70,7 @@ Documentation on the new system:
 * An example script showing how to use Mersenne Twister and DOTween.
 
 DOTween Documentation: <http://dotween.demigiant.com/documentation.php>
+
+## TL;DR
+
+Make Tetris but only using 3 blocks instead of 4.
